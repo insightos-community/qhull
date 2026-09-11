@@ -1,3 +1,5 @@
+InsightOS musl builds: see ci/musl/README.md for qhull 8.0.2 artifacts, CI, and runtime requirements.
+
 Name
 
       qhull, rbox        2020.2        2020/08/31        (8.0.2)

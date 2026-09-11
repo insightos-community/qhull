@@ -1,0 +1,14 @@
+{
+  "project": "qhull",
+  "version": "8.0.2",
+  "upstream": {
+    "repository": "https://github.com/qhull/qhull",
+    "tag": "v8.0.2",
+    "commit": "613debeaea72ee66626dace9ba1a2eff11b5d37d"
+  },
+  "library": "libqhull_r.so.8.0",
+  "build_dependencies": {},
+  "runtime_requirements": [
+    "musl x86_64"
+  ]
+}
