@@ -720,3 +720,7 @@ Authors
   Qhull 1.0 and 2.0 were developed under NSF grants NSF/DMS-8920161 
   and NSF-CCR-91-15793 750-7504 at the Geometry Center and Harvard 
   University.  If you find Qhull useful, please let us know.
+
+Reproducible platform builds
+---------------------------
+See README.build.md for glibc, musl and macOS scripts, commands, pinned sources and support boundaries.
